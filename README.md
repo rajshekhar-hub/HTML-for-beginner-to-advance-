@@ -4,7 +4,7 @@ beginner friendly HTML corse .
 auther Raj Shekhar
 <P>
 30-Days-Of-HTML/
-<BR>
+    <BR>
 │
     <BR>
 ├── README.md                 <-- The main overview (The 30-day list)
@@ -31,6 +31,6 @@ auther Raj Shekhar
     <BR>
 └── Day_03/
     ├── README.md             <-- Day 3 Lesson: Complex Lists
-        <BR>
+    <BR>
     └── index.html            <-- Day 3 Practical Exercise Solution
 </p>
