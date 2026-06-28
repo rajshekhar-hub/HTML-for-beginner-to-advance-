@@ -1,5 +1,8 @@
 # HTML-for-beginner-to-advance-
 beginner friendly HTML corse .
+<br>
+auther Raj Shekhar
+<P>
 30-Days-Of-HTML/
 │
 ├── README.md                 <-- The main overview (The 30-day list)
@@ -16,3 +19,4 @@ beginner friendly HTML corse .
 └── Day_03/
     ├── README.md             <-- Day 3 Lesson: Complex Lists
     └── index.html            <-- Day 3 Practical Exercise Solution
+</p>
